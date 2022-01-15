@@ -39,5 +39,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@mui/icons-material": "^5.2.5",
+    "@mui/material": "^5.2.7",
+    "@types/material-ui": "^0.21.12",
+    "@types/react-router-dom": "^5.3.2",
+    "@types/styled-components": "^5.1.19",
+    "react-router-dom": "^6.2.1",
+    "react-styled-flexboxgrid": "^3.2.1",
+    "styled-components": "^5.3.3"
   }
 }
